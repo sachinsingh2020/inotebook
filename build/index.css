@@ -1,0 +1,7 @@
+i {
+    cursor: pointer;
+}
+
+.borderDefault {
+    border: 2px solid black !important;
+}
